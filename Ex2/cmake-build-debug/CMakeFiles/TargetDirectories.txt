@@ -1,0 +1,3 @@
+/home/sunshine/Desktop/OSPtojects/Task7/Ex2/cmake-build-debug/CMakeFiles/Ex2.dir
+/home/sunshine/Desktop/OSPtojects/Task7/Ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sunshine/Desktop/OSPtojects/Task7/Ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
